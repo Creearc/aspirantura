@@ -5,4 +5,5 @@
 
 ## Полезные материалы
 Ссылка на диссертации в ПНИПУ: https://pstu.ru/diss/2022/
-Диссертации: www.dissernet.org
+
+Косяки людей: www.dissernet.org
